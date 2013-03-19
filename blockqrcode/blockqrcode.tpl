@@ -1,0 +1,1 @@
+<img src="https://chart.googleapis.com/chart?cht=qr&chs=128x128&chld=L|0&chl={$product_link}" alt="{$product->name}" style="float:right;" />
